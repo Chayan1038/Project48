@@ -1,0 +1,16 @@
+h2{
+    background-color: cyan;
+    border:dotted;
+    width: 5.5cm;
+}
+*{
+    background-color: gold;
+}
+img{
+    border:dotted;
+}
+h1{
+    background-color: cyan;
+    border: dotted;
+    width: 7.5cm;
+}
